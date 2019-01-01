@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'TSThgrgl';
+    src: url('TSThgrgl.eot');
+    src: url('TSThgrgl.eot?#iefix') format('embedded-opentype'),
+        url('TSThgrgl.woff2') format('woff2'),
+        url('TSThgrgl.woff') format('woff'),
+        url('TSThgrgl.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
