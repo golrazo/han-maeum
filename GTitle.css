@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'GTitle';
+    src: url('Title_Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTitle';
+    src: url('Title_Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTitle';
+    src: url('Title_Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
