@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'KBIZgo';
+    src: url('KBIZgoM.eot');
+    src: url('KBIZgoM.eot?#iefix') format('embedded-opentype'),
+        url('KBIZgoM.woff2') format('woff2'),
+        url('KBIZgoM.woff') format('woff'),
+        url('KBIZgoM.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KBIZgo';
+    src: url('KBIZgoB.eot');
+    src: url('KBIZgoB.eot?#iefix') format('embedded-opentype'),
+        url('KBIZgoB.woff2') format('woff2'),
+        url('KBIZgoB.woff') format('woff'),
+        url('KBIZgoB.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KBIZgo';
+    src: url('KBIZgoL.eot');
+    src: url('KBIZgoL.eot?#iefix') format('embedded-opentype'),
+        url('KBIZgoL.woff2') format('woff2'),
+        url('KBIZgoL.woff') format('woff'),
+        url('KBIZgoL.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KBIZgo';
+    src: url('KBIZgoR.eot');
+    src: url('KBIZgoR.eot?#iefix') format('embedded-opentype'),
+        url('KBIZgoR.woff2') format('woff2'),
+        url('KBIZgoR.woff') format('woff'),
+        url('KBIZgoR.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KBIZgo';
+    src: url('KBIZgoH.eot');
+    src: url('KBIZgoH.eot?#iefix') format('embedded-opentype'),
+        url('KBIZgoH.woff2') format('woff2'),
+        url('KBIZgoH.woff') format('woff'),
+        url('KBIZgoH.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
