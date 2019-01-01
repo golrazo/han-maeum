@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KBIZmjo';
+    src: url('KBIZmjoL.eot');
+    src: url('KBIZmjoL.eot?#iefix') format('embedded-opentype'),
+        url('KBIZmjoL.woff2') format('woff2'),
+        url('KBIZmjoL.woff') format('woff'),
+        url('KBIZmjoL.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
